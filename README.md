@@ -1,8 +1,8 @@
 # GurleenCoder.github.io
 ## Report of Student Induction Programme 2024.
 
-| Date | Resource Person | Description |
-| --------- | ---------- | --------- |
+| Date | Resource Person | Description 
+| --------- | ---------- | --------- 
 | 11/07/2024 | Dr. Arvind Dhingra | Sir , being the incharge - TAC and Director - STEP gave us a brief description on the various clubs of our college which are either credited or non credited. He informed us about the activities done in each club like causmic club, NCC , NSS, cultural committee etc. Sir explained this with a beautiful powerpoint presentation, then for the entertainment, sir played a game with students in which they had to hold each others' hand and had to free themselves without leaving the hands of the other person. In this game, the boys team won and then sir told everyone on the stage to introduce themselves. Sir's behaviour was very welcoming and frinedly. He made the session lively with his motivating words. | 
 | 11/07/2024 | Dr. Parminder Singh | Sir , being the Dean Student Welfare congratulated us on getting admitted to GNDEC and inspired us to stay focused in studies. Respected sir made us aware about a number of scholarships available at GNDEC such as SHDF scholarship, Post Matric Scholarships Scheme for Minorities, etc. |
 | 11/07/2024 | Dr. H.S. Rai | Sir enlightened us with his words of wisdom and introduced us to CodeGNE club. He motivated us to use open source tools and he also guided us to pursue 'Power Search With Google'. H.S. Rai sir introduced us to a useful search engine that doesn't really collect any personal data or doesn't track the IP address of the user. |
