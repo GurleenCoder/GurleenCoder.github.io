@@ -22,6 +22,8 @@
 | 18/07/2024 | Er. Jasvir Singh Grewal | Sir introduced us to NSS (National Service Scheme). He enlightened us with the need to come forward and put in our effort for the betterment of our society. He introduced us about the blood camps and plantation drives that are organized by the volunteers of NSS. |
 | 19/07/2024 | Er. Kanwardeep Kalra | Madam taught us about the corporate society and its different view points. She made us realise the importance of soft skills to leave a positive impression on the interviewers. Senior students acted in a play to clearly highlight the necessity to develop certain soft skills.
 | 19/07/2024 | Mr. Jaswinder Singh | Sir is a part of IAPT (Indian Association of Physics Teachers) Sir made our day with the most engaging session of science and maths and made learning fun. No one had ever explained us science in such an easy to understand way. He performed various experiments with working models. |
+| 19/07/2024 | Department Visit | We visited our department (CSE) as well as the labs of our department. We were informed about various aspects of our degree, ranging from course curriculum, marking criteria, placement criteria, data science club , Computer Society of India, etc. |
+
 
 
 
