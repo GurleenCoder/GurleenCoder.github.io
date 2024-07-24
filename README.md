@@ -22,6 +22,13 @@
 | 19/07/2024 | Er. Kanwardeep Kalra | Madam taught us about the corporate society and its different view points. She made us realise the importance of soft skills to leave a positive impression on the interviewers. Senior students acted in a play to clearly highlight the necessity to develop certain soft skills.
 | 19/07/2024 | Mr. Jaswinder Singh | Sir is a part of IAPT (Indian Association of Physics Teachers) Sir made our day with the most engaging session of science and maths and made learning fun. No one had ever explained us science in such an easy to understand way. He performed various experiments with working models. |
 | 19/07/2024 | Department Visit | We visited our department (CSE) as well as the labs of our department. We were informed about various aspects of our degree, ranging from course curriculum, marking criteria, placement criteria, data science club , Computer Society of India, etc. |
+| 22/07/2024 | Dr. SB Singh | Sir asked us certain questions about ourselves and we were told to write the answers on a page. It helped us in self exploration as we were told to write down our strengths, weaknesses, aims to be achieved in 4 years of our college life. We were guided to focus on gaining knowledge first rather than running blindly behind package and placement. |
+| 22/07/2024 | Dr. Pushpinder Singh | Sir informed us about various study methods. He told us about the importance of identifying our own study method to be good at academics. He enlightened us about the importance of asking questions to the teacher in class if something is not clearly understood. He told us about the importance of learning basics of every subject before entering into advanced study of those particular subjects. He informed us that there must be a difference in our approach towards studies at college than what it was during our school days. He highlighted the importance of deep study of every topic. |
+| 22/07/2024 | Dr. Sangeeta | Madam arranged a virtual lecture with Mr. Prasad Vaidya, Director of Solar Decathalon India who gave us a detailed description of SDI. Later, Ms. Sangeeta discussed about sustainability. We engaged with her in a talk on climate change and its harsh effects on animals, plants and humans. This was a really enlightening lecture. |
+| 23/07/2024 | Prof. Sanchit | Sir discussed the topic of integration from Mathematics. He taught various concepts in a very clear manner, be it integration by parts or by partial fraction. |
+| 23/07/2024 | Mr. Arsh and Mr. Sharan | We learnt how to use canva for making digital posters. We were told to make a poster on our own and to upload it on the provided link. This would definitely prove helpful for us in the future. |
+
+ 
 
 
 
