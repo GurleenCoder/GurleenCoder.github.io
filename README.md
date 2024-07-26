@@ -1,5 +1,5 @@
 # GurleenCoder.github.io
-## Report of Student Induction Programme 2024.
+## Report of Student Induction Programme 2024 at GNDEC,Ludhiana
 
 ![IMG_4622](https://github.com/user-attachments/assets/92962706-6501-453d-8af6-e13c193650f9)
 
