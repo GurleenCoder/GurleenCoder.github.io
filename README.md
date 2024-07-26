@@ -27,6 +27,9 @@
 | 22/07/2024 | Dr. Sangeeta | Madam arranged a virtual lecture with Mr. Prasad Vaidya, Director of Solar Decathalon India who gave us a detailed description of SDI. Later, Ms. Sangeeta discussed about sustainability. We engaged with her in a talk on climate change and its harsh effects on animals, plants and humans. This was a really enlightening lecture. |
 | 23/07/2024 | Prof. SS | Sir discussed the topic of integration from Mathematics. He taught various concepts in a very clear manner, be it integration by parts or by partial fraction. |
 | 23/07/2024 | Mr. Gursimran and Mr. Gaganjot | We learnt how to use canva for making digital posters. We were told to make a poster on our own and to upload it on the provided link. This would definitely prove helpful for us in the future. |
+![IMG_4622](https://github.com/user-attachments/assets/92962706-6501-453d-8af6-e13c193650f9)
+
+
 
  
 
